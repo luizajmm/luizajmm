@@ -14,7 +14,7 @@
 ## 🐱✨ Meu mascote dev: CatByte
 
 <p align="center">
-  <img src="https://media.giphy.com/media/9oa3sE4IdWbqO61WGT/giphy.gif" width="200" alt="gatinho programador"/>
+ <img src="https://media.tenor.com/u5L2sZ1jO2MAAAAi/cat-cute.gif" width="200">
 
 </p>
 
@@ -52,7 +52,7 @@
 📍 Repositório: **https://github.com/luizajmm/Amigo-Pet**
 
 <p align="center">
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdwcGlsdW5wcGx1bXJjZ2lxandwbTJ6ZTZybWZ0YTRsZmRyNGR6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nMYTq4mdpnnCM/giphy.gif" width="200">
+ <img src="https://media.tenor.com/7oIuK5vNnKIAAAAC/dog-typing.gif" width="200">
 </p>
 
 Um site criado com foco em responsividade, visual limpo e experiência intuitiva.  
@@ -76,5 +76,5 @@ Meu primeiro projeto real de front-end — e meu xodó. 🐶💚
 
 <!-- Gatinho final animado -->
 <p align="center">
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTc4cG5neWx3c2NqdWcwZm5yZmpxZHB5anN4OHpwOXB6ZWZ4aWJrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ICOgUNjpvO0PC/giphy.gif" width="250"/>
+ <img src="https://media.tenor.com/V7Z2lVYE0CIAAAAC/cat-typing.gif" width="250">
 </p>
