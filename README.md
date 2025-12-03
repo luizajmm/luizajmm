@@ -1,6 +1,6 @@
 <!-- Banner animado -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/luizajmm/luizajmm/main/banner-luiza.png" width="650" />
+  <img src="banner-luiza-julia-neon.gif" width="650" />
 </p>
 
 <h1 align="center">👋 Oi! Eu sou a Luiza — Desenvolvedora de Sistemas de Informação</h1>
