@@ -1,6 +1,6 @@
 <!-- Banner animado -->
 <p align="center">
- <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="650"/>
+  <img src="https://raw.githubusercontent.com/luizajmm/luizajmm/main/banner-luiza.png" width="650" />
 </p>
 
 <h1 align="center">👋 Oi! Eu sou a Luiza — Desenvolvedora de Sistemas de Informação</h1>
@@ -15,7 +15,6 @@
 
 <p align="center">
  <img src="https://media.tenor.com/u5L2sZ1jO2MAAAAi/cat-cute.gif" width="200">
-
 </p>
 
 <p align="center">
@@ -40,8 +39,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
-
-  
 </p>
 
 ---
@@ -64,17 +61,3 @@ Meu primeiro projeto real de front-end — e meu xodó. 🐶💚
 
 <p align="center">
   <img src="https://img.shields.io/badge/Email-luizajuliamarinho%40gmail.com-red?style=for-the-badge&logo=gmail">
-</p>
-
----
-
-## 🌟 Mensagem Final
-
-<p align="center">
-  <em>"Desenvolver é transformar imaginação em código. E eu tô só começando." 💚🚀</em>
-</p>
-
-<!-- Gatinho final animado -->
-<p align="center">
- <img src="https://media.tenor.com/V7Z2lVYE0CIAAAAC/cat-typing.gif" width="250">
-</p>
