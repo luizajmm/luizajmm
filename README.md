@@ -46,7 +46,7 @@ Sou estudante de **Tecnologia em Sistemas de Informação** e apaixonada por tra
 Repositório: **https://github.com/luizajmm/Amigo-Pet**
 
 Um site desenvolvido com foco em **responsividade**, **organização visual** e **experiência do usuário**.  
-É o meu primeiro projeto real como front-end — e representa o início da minha carreira na área. 💙🐶
+É o meu primeiro projeto como front-end, pensado e inspirado em causas reais, representando o início da minha carreira na área.🐶
 
 ---
 
