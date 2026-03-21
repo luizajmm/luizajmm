@@ -15,7 +15,7 @@
 
 Sou estudante de **Tecnologia em Sistemas de Informação** e apaixonada por transformar ideias em experiências visuais bonitas, funcionais e bem estruturadas.
 
-- 🎓 Atualmente no **1º semestre**, já desenvolvendo projetos e sites sob encomenda.  
+- 🎓 Atualmente no **2º semestre**, já desenvolvendo projetos e sites sob encomenda.  
 - 💡 Curiosa, dedicada e com uma pegada **criativa + analítica** no jeito de pensar código.  
 - 🎨 Amo unir **design + front-end**, criando interfaces responsivas e intuitivas.  
 - 🚀 Meu objetivo: evoluir diariamente e construir soluções que encantem visualmente e funcionem sem complicação.  
