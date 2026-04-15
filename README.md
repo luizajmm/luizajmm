@@ -72,15 +72,15 @@ Projeto desenvolvido com foco em:
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizajmm&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=luizajmm&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=luizajmm&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizajmm&layout=compact&theme=tokyonight&cache_seconds=86400"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizajmm&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luizajmm&theme=tokyonight"/>
 </p>
----
 
+---
 ## 📫 Contato
 
 <p align="center">
