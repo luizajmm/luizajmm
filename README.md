@@ -3,7 +3,6 @@
   <img src="Ola-eu-sou-a-Luiza-Julia-03-12-2025.gif" width="700" />
 </p>
 
-<h1 align="center"> Luiza Julia </h1>
 <h3 align="center">DEV em formação • Front-end & Back-end</h3>
 
 <p align="center">
