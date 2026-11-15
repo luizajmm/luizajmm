@@ -8,11 +8,15 @@ Estou procurando estágio em desenvolvimento e também faço sites sob encomenda
 
 ## Projetos
 
-**[GastroTech](https://github.com/tcc-pi2/Sistema-Administrativo)**
+### [GastroTech](https://github.com/tcc-pi2/Sistema-Administrativo)
+
 Sistema de pedidos para lanchonete. O cliente faz o pedido no totem, o pedido vai para a tela da cozinha e o dono acompanha tudo por um painel com login, onde cadastra produtos e vê o caixa.
 Feito com PHP, MySQL e JavaScript.
 
-**[AmigoPet](https://github.com/luizajmm/Amigo-Pet)** · [ver site](https://luizajmm.github.io/Amigo-Pet/)
+### [AmigoPet](https://github.com/luizajmm/Amigo-Pet)
+
+[Ver site no ar](https://luizajmm.github.io/Amigo-Pet/)
+
 Site de adoção de cães e gatos, com os animais disponíveis, o passo a passo da adoção, perguntas frequentes e contato.
 Feito com HTML e CSS.
 
