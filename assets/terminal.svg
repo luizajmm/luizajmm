@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="124" viewBox="0 0 840 124" role="img" aria-label="luiza@sp:~$ whoami: luiza júlia, dev full-stack em formação">
+<style>
+  text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; white-space: pre; fill: #d4d4d8; }
+  .p { fill: #a78bfa; }
+  .dim { fill: #8b8b94; }
+  .ln { opacity: 0; animation: show .01s linear forwards; }
+  .cur { fill: #a78bfa; animation: blink 1s steps(1) infinite; }
+  @keyframes show { to { opacity: 1; } }
+  @keyframes blink { 50% { opacity: 0; } }
+</style>
+<rect width="840" height="124" rx="8" fill="#0d0d12"/>
+<g class="ln" style="animation-delay:.5s">
+  <text class="p" x="24" y="40" textLength="99" lengthAdjust="spacingAndGlyphs">luiza@sp:~$</text>
+  <clipPath id="t"><rect x="132" y="22" height="24" width="0"><animate attributeName="width" begin="0.9s" dur="0.42s" values="0;9;18;27;36;45;60" calcMode="discrete" fill="freeze"/></rect></clipPath>
+  <text x="132" y="40" clip-path="url(#t)">whoami</text>
+</g>
+<g class="ln" style="animation-delay:1.6s"><text x="24" y="66">luiza júlia <tspan class="dim">· dev full-stack em formação</tspan></text></g>
+<g class="ln" style="animation-delay:2.1s">
+  <text class="p" x="24" y="92" textLength="99" lengthAdjust="spacingAndGlyphs">luiza@sp:~$</text>
+  <rect x="132" y="78" width="9" height="17" class="cur"/>
+</g>
+</svg>
