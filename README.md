@@ -20,7 +20,15 @@ Feito com PHP, MySQL e JavaScript.
 Site de adoção de cães e gatos, com os animais disponíveis, o passo a passo da adoção, perguntas frequentes e contato.
 Feito com HTML e CSS.
 
-<!-- EXPERIENCIA: preencher com os trabalhos para clientes -->
+## Experiência
+
+### Desenvolvedora web freelancer
+
+#### [Artesania Cultural](https://artesaniacultural.netlify.app/)
+
+Site institucional de uma consultoria cultural que conecta artistas, patrocinadores e o terceiro setor. Apresenta os serviços, o passo a passo do atendimento, depoimentos de artistas e os projetos aprovados em leis de incentivo à espera de patrocínio.
+Tem um painel de acessibilidade com tema claro e escuro, ajuste do tamanho do texto, contraste reforçado, pausa das animações e tradução para Libras pelo VLibras.
+Feito com HTML, CSS e JavaScript, publicado na Netlify.
 
 ## Formação
 
