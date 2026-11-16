@@ -2,15 +2,10 @@
 
 ```text
 luiza@sp:~$ cat sobre.txt
-estudante de sistemas de informação no senac · são paulo, sp
-procurando estágio em desenvolvimento · faço sites sob encomenda
+faço sites para clientes · buscando estágio em desenvolvimento
 
-luiza@sp:~$ cat experiencia.log
-freelancer ......... artesania cultural · site com painel de acessibilidade
-
-luiza@sp:~$ ls projetos/
-gastrotech ......... sistema de pedidos para lanchonete · php, mysql, js
-amigopet ........... site de adoção de cães e gatos · html, css
+luiza@sp:~$ cat clientes.log
+artesania cultural ... site institucional com painel de acessibilidade
 
 luiza@sp:~$ cat stack.txt
 html  css  javascript  php  mysql  git  figma
@@ -19,4 +14,4 @@ estudando: python  java  c
 luiza@sp:~$ ./contato
 ```
 
-[artesania cultural](https://artesaniacultural.netlify.app/) · [gastrotech](https://github.com/tcc-pi2/Sistema-Administrativo) · [amigopet](https://luizajmm.github.io/Amigo-Pet/) · [e-mail](mailto:luizajuliamarinho@gmail.com)
+[artesania cultural](https://artesaniacultural.netlify.app/) · [e-mail](mailto:luizajuliamarinho@gmail.com)
