@@ -14,4 +14,4 @@ estudando: python  java  c
 luiza@sp:~$ ./contato
 ```
 
-[artesania cultural](https://artesaniacultural.netlify.app/) · [e-mail](mailto:luizajuliamarinho@gmail.com)
+[artesania cultural](https://artesaniacultural.com.br/) · [e-mail](mailto:luizajuliamarinho@gmail.com)
